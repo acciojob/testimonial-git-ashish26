@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .container{
-	padding:50px;
+	padding:20px;
 	background-color:#f5f5f5;
 }
 .testimonial{
@@ -9,7 +9,7 @@
 	border: 1px solid #ddd 
 }
 .text{
-	font-size:20px;
+	font-size:14px;
 }
 .author{
 	 text-align: right;
